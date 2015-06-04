@@ -25,6 +25,7 @@ footer{
 .jumbotron {
 	text-align: center;
 	background-image: url(../images/hero-image.jpg);
+	background-attachment: fixed;
 	color: white;
 
 }
